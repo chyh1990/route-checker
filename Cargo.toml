@@ -1,0 +1,8 @@
+[package]
+name = "link-router"
+version = "0.1.0"
+authors = ["Yuheng Chen <chyh1990@gmail.com>"]
+
+[dependencies]
+libc = "*"
+regex = "*"
